@@ -16,6 +16,9 @@
 *   **Auto-Update System**: The app automatically checks for the latest version to ensure compatibility and new features.
 *   **Privacy & Safety**: Operates as a passive log reader.
 
+## 📥 Download
+You can find the latest version and all releases here: [**GitHub Releases**](https://github.com/onjjje/Rust-NeuralLog/releases)
+
 ## 🛠 How It Works (Technical Note)
 
 Due to Rust's engine constraints, it is impossible to track every shot automatically without game memory injection (which is unsafe). 
@@ -46,6 +49,9 @@ Due to Rust's engine constraints, it is impossible to track every shot automatic
 *   **Кастомизация**: Настройка прозрачности интерфейса и поддержка горячих клавиш.
 *   **Авто-обновление**: Программа сама предложит установить актуальную версию при выходе патча.
 *   **Полностью бесплатно**: Весь функционал доступен без подписок и скрытых платежей.
+
+## 📥 Скачать
+Актуальную версию и список всех релизов можно найти здесь: [**GitHub Releases**](https://github.com/onjjje/Rust-NeuralLog/releases)
 
 ## ⚙️ Техническая часть
 
