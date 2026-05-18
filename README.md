@@ -1,6 +1,7 @@
 # Rust Neurallog 🎯
 **Rust Neurallog** — is an advanced external combat log analyzer for Rust. It allows players to track their performance in real-time, analyze shot distances, and examine detailed hit distribution across body parts.
-***Rust Neurallog*** — это продвинутый внешний анализатор боевых логов для игры Rust. Программа позволяет игрокам в режиме реального времени отслеживать свою эффективность, анализировать дистанции выстрелов и детально изучать распределение попаданий по частям тела.
+
+**Rust Neurallog** — это продвинутый внешний анализатор боевых логов для игры Rust. Программа позволяет игрокам в режиме реального времени отслеживать свою эффективность, анализировать дистанции выстрелов и детально изучать распределение попаданий по частям тела.
 
 [Русское описание находится ниже](#russian-description)
 
